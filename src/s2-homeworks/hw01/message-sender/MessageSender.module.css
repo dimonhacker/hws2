@@ -3,11 +3,19 @@
 }
 
 .textarea {
+    border-radius: 20px;
+    background: #F5F7FB;
 
+    width: 976px;
+    height: 40px;
+    flex-shrink: 0;
 }
 
 .button {
-
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    background: #06C;
 }
 
 .button:hover {

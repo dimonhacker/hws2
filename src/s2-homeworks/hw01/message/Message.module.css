@@ -3,15 +3,22 @@
 }
 
 .imageAndText {
-
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .imageAndText img {
-
+    width: 48px;
 }
 
 .text {
-
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0066cc;
+    width: max-content;
 }
 
 .text:after {
@@ -27,5 +34,10 @@
 }
 
 .time {
-
+    color: #000;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
